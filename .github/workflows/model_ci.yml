@@ -2,7 +2,7 @@ name: Model CI
 on:
   push:
     branches:
-    - 'master'
+    - 'VuNB'
   pull_request:
     types: [opened, synchronize, reopened]
 
